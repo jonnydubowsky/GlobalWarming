@@ -56,11 +56,15 @@ Minecraft Server Java Edition (Spigot) plugin which adds game changing climate c
 + 18.0 C - |Noxious Area Potion Effect Clouds | Farm yields decrease | +2 Sea Level Rise | All Snow/Ice melts |
 + 19.0 C - | All fish die | Random Forest Fires | Slower Health Regen |
 + 20.0 C - "Devastation".. Highly polluted chunks get permanent severe area potion effects, forest fires, etc
++ 25.0 c _"Affirmation"High pollution chances of a greater contamination
 
 ## Suggestions 
 Feel free to create issues on this github project, or email me at nsporillo@gmail.com
 
 I'm still working on establishing a stable default model that doesnt implode servers a day after they install. The negative effects need to be burdensome but not devastating right off the bat, and it's difficult to project what will happpen. Please let me know if you have any thoughts!
+
+##Feedbacks
+GREAT WORK.....KEEP IT UP
 
 ## Contributing 
 Always welcome to fork this repository and submit pull requests!
